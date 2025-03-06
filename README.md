@@ -22,7 +22,7 @@
 
 ## 📸 ภาพตัวอย่าง (Screenshots)
 ### 🔹 หน้าแสดงผลข้อมูลภาพยนตร์
-![Movie Management System](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/main-ui.png)
+![image](https://github.com/user-attachments/assets/eeef4a1d-6856-4073-a707-04abbddb3c21)
 
 
 ---
