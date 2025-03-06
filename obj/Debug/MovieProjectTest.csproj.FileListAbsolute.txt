@@ -8,3 +8,13 @@ C:\nin_th_mo\MovieProjectTest\MovieProjectTest\obj\Debug\MovieProjectTest.csproj
 C:\nin_th_mo\MovieProjectTest\MovieProjectTest\obj\Debug\MovieProjectTest.csproj.CoreCompileInputs.cache
 C:\nin_th_mo\MovieProjectTest\MovieProjectTest\obj\Debug\MovieProjectTest.exe
 C:\nin_th_mo\MovieProjectTest\MovieProjectTest\obj\Debug\MovieProjectTest.pdb
+D:\MovieProjectTest\bin\Debug\MovieProjectTest.exe.config
+D:\MovieProjectTest\bin\Debug\MovieProjectTest.exe
+D:\MovieProjectTest\bin\Debug\MovieProjectTest.pdb
+D:\MovieProjectTest\obj\Debug\MovieProjectTest.csproj.AssemblyReference.cache
+D:\MovieProjectTest\obj\Debug\MovieProjectTest.FrmMovie.resources
+D:\MovieProjectTest\obj\Debug\MovieProjectTest.Properties.Resources.resources
+D:\MovieProjectTest\obj\Debug\MovieProjectTest.csproj.GenerateResource.cache
+D:\MovieProjectTest\obj\Debug\MovieProjectTest.csproj.CoreCompileInputs.cache
+D:\MovieProjectTest\obj\Debug\MovieProjectTest.exe
+D:\MovieProjectTest\obj\Debug\MovieProjectTest.pdb
